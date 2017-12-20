@@ -1,6 +1,8 @@
 # Bouncing Ball
 A ball game built on python.
 
+<img src="screenshot/BouncingBall.png">
+
 #### Run the project 
 * Clone the repo:
 ```bash
@@ -14,4 +16,3 @@ cd Bouncing\ Ball/
 ```bash
 python main.py
 ```
-
